@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'New-icon';
+  src:  url('fonts/New-icon.eot?yodhms');
+  src:  url('fonts/New-icon.eot?yodhms#iefix') format('embedded-opentype'),
+    url('fonts/New-icon.ttf?yodhms') format('truetype'),
+    url('fonts/New-icon.woff?yodhms') format('woff'),
+    url('fonts/New-icon.svg?yodhms#New-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'New-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Regalo:before {
+  content: "\e900";
+}
+.icon-Manos:before {
+  content: "\e901";
+}
+.icon-Lupa:before {
+  content: "\e902";
+}

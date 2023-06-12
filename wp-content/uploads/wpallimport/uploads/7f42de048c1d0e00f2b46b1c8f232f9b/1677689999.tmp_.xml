@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<htmlhead><![CDATA[<script type="text/javascript">]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[window.onload = function() {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  // Parse the tracking code from cookies.]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  var trk = "bf";]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  var trkInfo = "bf";]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  var cookies = document.cookie.split("; ");]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  for (var i = 0; i < cookies.length; ++i) {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    if ((cookies[i].indexOf("trkCode=") == 0) && (cookies[i].length > 8)) {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[      trk = cookies[i].substring(8);]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    else if ((cookies[i].indexOf("trkInfo=") == 0) && (cookies[i].length > 8)) {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[      trkInfo = cookies[i].substring(8);]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  if (window.location.protocol == "http:") {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    // If "sl" cookie is set, redirect to https.]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    for (var i = 0; i < cookies.length; ++i) {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[      if ((cookies[i].indexOf("sl=") == 0) && (cookies[i].length > 3)) {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[        window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[        return;]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[      }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  // Get the new domain. For international domains such as]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  // fr.linkedin.com, we convert it to www.linkedin.com]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  // treat .cn similar to .com here]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  var domain = location.host;]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  if (domain != "www.linkedin.com" && domain != "www.linkedin.cn") {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    var subdomainIndex = location.host.indexOf(".linkedin");]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    if (subdomainIndex != -1) {]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[      domain = "www" + location.host.substring(subdomainIndex);]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[    }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  }]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[  window.location.href = "https://" + domain + "/authwall?trk=" + trk + "&trkInfo=" + trkInfo +]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[&original_referer= + document.referrer.substr(0, 200) +]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[&sessionRedirect= + encodeURIComponent(window.location.href);]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[}]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[</script>]]></htmlhead>
+	</node>
+	<node>
+		<htmlhead><![CDATA[</head></html>]]></htmlhead>
+	</node>
+</data>
