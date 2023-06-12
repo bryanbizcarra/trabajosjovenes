@@ -530,15 +530,17 @@ if (isset($subheader_employer_bg_color['rgba'])) {
 	                    ?>
 
                     <div class="jobsearch_apply_job_wrap">
+                        <!--BOTÓN WHATSAPP-->
                         <?php 
-                        // BOTÓN WHATSAPP
+                        if (is_user_logged_in()) {
+                            // obteniendo numero de contacto
                         $job_ws = get_post_meta($job_id, 'job_ws', true);
 
                         echo '<a target="_blank" href= "https://api.whatsapp.com/send?phone='. $job_ws . '&text=Hola%2C%20un%20gusto%2C%20en%20trabajosjovenes.cl%20vi%20su%20anuncio%20de%20'. $job_title .'%20y%20me%20interesa%20postular%2C%20le%20dejo%20mi%20Curriculum%20saludos." class="jobsearch-applyjob-btn jobsearch-job-apply-btn-con jobsearch-modelcvs-btn-891757">
                             <img src="https://localhost/trabajosjovenes_new/wp-content/uploads/2023/03/580b57fcd9996e24bc43c543.png" height="30" alt="Whatsapp icon"/>
                             Postular con Whatsapp
                             </a>';
-                        ?>
+                        }?>
                     </div>
 
                     </div>
