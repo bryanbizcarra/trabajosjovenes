@@ -1,0 +1,26 @@
+2023-04-23T22:38:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T22:40:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T22:45:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T22:50:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T22:55:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T23:00:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 205
+
+2023-04-23T23:05:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T23:10:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T23:42:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks-footer-pixel.php en la línea 128
+
+2023-04-23T23:44:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T23:45:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T23:50:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-23T23:55:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+

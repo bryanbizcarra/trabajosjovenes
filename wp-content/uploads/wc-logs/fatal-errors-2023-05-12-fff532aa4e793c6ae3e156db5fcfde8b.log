@@ -1,0 +1,29 @@
+2023-05-12T18:31:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.asset.php en la línea 1
+
+2023-05-12T18:32:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\elementor\includes\controls\textarea.php en la línea 6
+
+2023-05-12T18:34:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-05-12T18:35:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 205
+
+2023-05-12T18:41:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-05-12T18:44:40+00:00 CRITICAL Uncaught Error: Object of class WP_User could not be converted to string in C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\templates\detail-pages\job\view1-job.php:530
+Stack trace:
+#0 C:\xampp\htdocs\trabajosjovenes_new\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\includes\common-functions\common-functions.php(2770): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\includes\single-pages\single-job.php(95): jobsearch_get_template_part('view1', 'job', 'detail-pages/jo...')
+#3 C:\xampp\htdocs\trabajosjovenes_new\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\trabajosjovenes_new\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\trabajosjovenes_new\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\templates\detail-pages\job\view1-job.php en la línea 530
+
+2023-05-12T18:46:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php en la línea 71
+
+2023-05-12T18:59:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-05-12T19:01:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-05-12T19:09:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+

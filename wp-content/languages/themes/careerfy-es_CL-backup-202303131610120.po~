@@ -1,0 +1,2093 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Careerfy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-20 12:35+0000\n"
+"PO-Revision-Date: 2023-03-13 16:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Chile\n"
+"Language: es_CL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:241
+#, fuzzy
+msgid " -Accepting applications"
+msgstr "-Aceptar aplicaciones"
+
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:497
+#, fuzzy
+msgid " ago"
+msgstr "Ago"
+
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:260
+#, fuzzy
+msgid " Back to all Candidates"
+msgstr "Volver a todos los candidatos"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:92
+#, fuzzy
+msgid " Back to all Jobs"
+msgstr "Volver a todos los trabajos"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:415
+#, fuzzy
+msgid " Company Overview"
+msgstr "Sinopsis de la empresa"
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3585
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/header-functions.php:950 inc/header-functions.php:1245
+#, fuzzy, php-format
+msgid "%s"
+msgstr "% s"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:49
+#, fuzzy
+msgid ", "
+msgstr ","
+
+#: template-parts/content.php:55
+#, fuzzy
+msgid "0 Comments"
+msgstr "0 comentarios"
+
+#: template-parts/content.php:56
+#, fuzzy
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:196
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:658
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:636
+#, fuzzy, php-format
+msgid "<a href=\"mailto: %s\">Email: %s</a>"
+msgstr "<a href=\"mailto: %s\">Correo electrónico:% s </a>"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:527
+#, fuzzy
+msgid "About"
+msgstr "Acerca de"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:683
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:543
+#, fuzzy, php-format
+msgid "About %s"
+msgstr "Alrededor de % s"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:484
+#, fuzzy
+msgid "About Company"
+msgstr "Acerca de la empresa"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:536
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:715
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:580
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:609
+#, fuzzy
+msgid "About me"
+msgstr "Sobre mí"
+
+#: inc/theme-functions.php:665
+#, fuzzy
+msgid "About the Author"
+msgstr "Sobre el autor"
+
+#: inc/class-tgm-plugin-activation.php:2802
+#, fuzzy
+msgid "Activate"
+msgstr "Activar"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2690
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2397
+#, fuzzy
+msgid "Active"
+msgstr "Activa"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:905
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:499
+#, fuzzy, php-format
+msgid "Active Jobs From %s"
+msgstr "Trabajos activos a partir de % s"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:182
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:187
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:164
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:170
+#, fuzzy
+msgid "Add a review"
+msgstr "Añádase una reseña"
+
+#: inc/theme-functions.php:166
+#, fuzzy
+msgid "Add only one widget here."
+msgstr "Añadir sólo un Widget aquí."
+
+#: woocommerce/content-product.php:73 woocommerce/content-product.php:104
+#, fuzzy
+msgid "Add To Cart"
+msgstr "Añadir al carrito"
+
+#: functions.php:381 inc/theme-functions.php:113
+#, fuzzy
+msgid "Add widgets here."
+msgstr "Añadir Widgets aquí."
+
+#: woocommerce/single-product/tabs/additional-information.php:21
+#, fuzzy
+msgid "Additional information"
+msgstr "Información adicional"
+
+#: functions.php:244
+#, fuzzy
+msgid "Addon Jobsearch Chat"
+msgstr "Añadir chat de búsqueda de empleo"
+
+#: functions.php:233
+#, fuzzy
+msgid "Addon Jobsearch Resume Export"
+msgstr "Añadir Jobsearch reanudar la exportación"
+
+#: functions.php:222
+#, fuzzy
+msgid "Addon Jobsearch Scheduled Meetings"
+msgstr "Addon Jobsearch reuniones programadas"
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, fuzzy
+msgid "All installations and activations have been completed."
+msgstr "Se han completado todas las instalaciones y Activaciones."
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, fuzzy
+msgid "All installations have been completed."
+msgstr "Se han completado todas las instalaciones."
+
+#. 1: dashboard link.
+#: functions.php:361 inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los Plugins instalados y activados con éxito. %1$s"
+
+#: inc/footer-functions.php:44
+#, fuzzy
+msgid "All Right Reserved - by"
+msgstr "Todos los derechos reservados - por"
+
+#. 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocurrió un error al instalar %1$s: <strong>%2$s</strong>."
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:473
+#: wp-jobsearch/detail-pages/job/view3-job.php:163
+#, fuzzy
+msgid "Application End"
+msgstr "Fin de la aplicación"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:256
+#, fuzzy
+msgid "Apply Before: "
+msgstr "Aplicar antes:"
+
+#: inc/class-tgm-plugin-activation.php:2558
+#, fuzzy
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Desconocido"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:322
+#: wp-jobsearch/detail-pages/job/view3-job.php:367
+#: wp-jobsearch/detail-pages/job/view5-job.php:394
+#: wp-jobsearch/detail-pages/job/view4-job.php:305
+#, fuzzy
+msgid "Attached Files"
+msgstr "Archivos adjuntos"
+
+#: inc/class-tgm-plugin-activation.php:2586
+#, fuzzy
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: woocommerce/single-product/product-image.php:49
+#, fuzzy
+msgid "Awaiting product image"
+msgstr "A la espera de la imagen del producto"
+
+#: 404.php:35
+#, fuzzy
+msgid "back To homepage"
+msgstr "Volver a la página principal"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:189
+#, fuzzy
+msgid "Back to Search Result"
+msgstr "Volver al resultado de la búsqueda"
+
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:158
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:164
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:158
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:164
+#, fuzzy
+msgid "Basic"
+msgstr "Básico"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:394
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:432
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:334
+#, fuzzy
+msgid "Become an Employer"
+msgstr "Convertirse en un empleador"
+
+#: functions.php:350 inc/class-tgm-plugin-activation.php:379
+#, fuzzy
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Iniciar la activación del complemento"
+msgstr[1] "Iniciar la activación de complementos"
+
+#: functions.php:344 inc/class-tgm-plugin-activation.php:371
+#, fuzzy
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Iniciar la instalación del complemento"
+msgstr[1] "Iniciar la instalación de complementos"
+
+#: functions.php:347 inc/class-tgm-plugin-activation.php:375
+#, fuzzy
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Iniciar la actualización del complemento"
+msgstr[1] "Iniciar la actualización de complementos"
+
+#: inc/theme-functions.php:429
+#, fuzzy
+msgid "Browse"
+msgstr "Examinar"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:417
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:455
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:357
+#, fuzzy
+msgid "Buy any CV Packages to get started"
+msgstr "Compra cualquier paquete de CV para empezar"
+
+#: inc/theme-functions.php:671
+#, fuzzy
+msgid "By"
+msgstr "Por"
+
+#: inc/template-tags.php:22
+#, fuzzy
+msgid "by"
+msgstr "Por"
+
+#: inc/header-functions.php:202
+#, fuzzy
+msgid "Call us on:"
+msgstr "Llámenos a:"
+
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1009
+#, fuzzy
+msgid "Candidate Overview"
+msgstr "Visión general de los candidatos"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:1093
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:940
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:983
+#, fuzzy
+msgid "Candidate Reviews"
+msgstr "Exámenes de candidatos"
+
+#. Name of the theme
+#, fuzzy
+msgid "Careerfy"
+msgstr "Careerfy"
+
+#. Description of the theme
+#, fuzzy
+msgid ""
+"Careerfy brings you the most simple solution to display jobs on any type of "
+"websites. You may already know, some really big Job Portals provides the "
+"option to use their database and extend your website with job offers. This "
+"Theme can make everything automatically, some job providers also pay "
+"commission when any of your visitors click on the job links."
+msgstr ""
+"Careerfy le ofrece la solución más sencilla para mostrar trabajos en "
+"cualquier tipo de sitios web. Usted puede ya saber, algunos portales de "
+"trabajo realmente grande proporciona la opción de utilizar su base de datos "
+"y ampliar su sitio web con ofertas de trabajo. Este tema puede hacer todo "
+"automáticamente, algunos proveedores de trabajo también pagan Comisión "
+"cuando cualquiera de sus visitantes haga clic en los enlaces de trabajo."
+
+#: functions.php:149
+#, fuzzy
+msgid "Careerfy Demo Data"
+msgstr "Datos de demostración de Careerfy"
+
+#: functions.php:137
+#, fuzzy
+msgid "Careerfy Framework"
+msgstr "Marco profesional"
+
+#: inc/theme-functions.php:752
+#, fuzzy
+msgid "Careerfy Framework Plugin"
+msgstr "Complemento de marco de Careerfy"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:403
+#, fuzzy
+msgid "Categories"
+msgstr "Categorías"
+
+#: wp-jobsearch/candidates/view-fancy-4-candidate-template.php:281
+#: wp-jobsearch/candidates/view-modern-candidate-template.php:200
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:220
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:257
+#: wp-jobsearch/candidates/view-fancy-2-candidate-template.php:222
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:224
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:243
+#: wp-jobsearch/employers/view-listing2-employer-template.php:242
+#: wp-jobsearch/employers/view-slider-employer-template.php:287
+#: wp-jobsearch/employers/view-grid-employer-template.php:269
+#: wp-jobsearch/jobs/view-grid3-job-template.php:329
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:424
+#: wp-jobsearch/jobs/view-grid-job-template.php:378
+#: wp-jobsearch/jobs/view-medium3-job-template.php:378
+#: wp-jobsearch/jobs/view-listing2-job-template.php:448
+#: wp-jobsearch/jobs/view-medium2-job-template.php:326
+#: wp-jobsearch/jobs/view-grid2-job-template.php:379
+#: wp-jobsearch/jobs/view-medium-job-template.php:384
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:387
+#, fuzzy
+msgid "Change your filter keywords to re-submit"
+msgstr "Cambiar el filtro Palabras clave a Reenviar"
+
+#: inc/theme-functions.php:1055
+#, fuzzy
+msgid "Close Forever"
+msgstr "Cerrar para siempre"
+
+#: inc/theme-functions.php:1057
+#, fuzzy
+msgid "Close Until Next Update"
+msgstr "Cerrar hasta la próxima actualización"
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:181
+#, fuzzy
+msgid "Closed Date"
+msgstr "Fecha de cierre"
+
+#: single.php:37
+#, fuzzy
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:42
+#, fuzzy
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: single.php:36 comments.php:28 comments.php:90 template-parts/content.php:57
+#, fuzzy
+msgid "Comments"
+msgstr "Observaciones"
+
+#: comments.php:61
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:437
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:206
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:321
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:281
+#, fuzzy
+msgid "Company Description"
+msgstr "Descripción de la empresa"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:610
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:592
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:454
+#, fuzzy
+msgid "Company Reviews"
+msgstr "Exámenes de las empresas"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:373
+#, fuzzy
+msgid "Company Size "
+msgstr "Tamaño de la empresa"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:581
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1018
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1079
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:687
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:789
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:790
+#, fuzzy
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: template-parts/content-single.php:150 template-parts/content.php:77
+#, fuzzy
+msgid "Continue Reading"
+msgstr "Continuar leyendo"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:571
+#: wp-jobsearch/detail-pages/job/view3-job.php:460
+#, fuzzy
+msgid "Days"
+msgstr "Días"
+
+#: woocommerce/single-product/tabs/description.php:21
+#, fuzzy
+msgid "Description"
+msgstr "Descripción"
+
+#: functions.php:362 inc/class-tgm-plugin-activation.php:393
+#, fuzzy
+msgid "Dismiss this notice"
+msgstr "Desestimar el presente anuncio"
+
+#: wp-jobsearch/candidates/view-fancy-4-candidate-template.php:280
+#: wp-jobsearch/candidates/view-modern-candidate-template.php:199
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:219
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:256
+#: wp-jobsearch/candidates/view-fancy-2-candidate-template.php:221
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:223
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:242
+#: wp-jobsearch/employers/view-listing2-employer-template.php:241
+#: wp-jobsearch/employers/view-slider-employer-template.php:286
+#: wp-jobsearch/employers/view-grid-employer-template.php:268
+#: wp-jobsearch/jobs/view-grid3-job-template.php:328
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:423
+#: wp-jobsearch/jobs/view-grid-job-template.php:377
+#: wp-jobsearch/jobs/view-medium3-job-template.php:377
+#: wp-jobsearch/jobs/view-listing2-job-template.php:447
+#: wp-jobsearch/jobs/view-medium2-job-template.php:325
+#: wp-jobsearch/jobs/view-grid2-job-template.php:378
+#: wp-jobsearch/jobs/view-medium-job-template.php:383
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:386
+#, fuzzy
+msgid "Does not match record with your keyword"
+msgstr "No coincide con el registro con su palabra clave"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:353
+#: wp-jobsearch/detail-pages/job/view3-job.php:398
+#: wp-jobsearch/detail-pages/job/view5-job.php:425
+#: wp-jobsearch/detail-pages/job/view4-job.php:336
+#, fuzzy
+msgid "Download"
+msgstr "Descargar"
+
+#: inc/footer-functions.php:116
+#, fuzzy
+msgid "Download Apps"
+msgstr "Descargar aplicaciones"
+
+#: inc/footer-functions.php:282
+#, fuzzy
+msgid "Download the App"
+msgstr "Descargar la aplicación"
+
+#. %s: Name of current post
+#: inc/template-tags.php:65 template-parts/content-page.php:38
+#, fuzzy, php-format
+msgid "Edit %s"
+msgstr "Editar % s"
+
+#: inc/theme-functions.php:620
+#, fuzzy
+msgid "Edit Comment"
+msgstr "Editar comentario"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:546
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:761
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:626
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:651
+#, fuzzy
+msgid "Education"
+msgstr "Educación"
+
+#: functions.php:193
+#, fuzzy
+msgid "Elementor"
+msgstr "Elementor"
+
+#: comments.php:82
+#, fuzzy
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:594
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1031
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1092
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:700
+#, fuzzy
+msgid "Email Address:"
+msgstr "Dirección de correo electrónico:"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:494
+#, fuzzy
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:638
+#, fuzzy
+msgid "Employer Overview"
+msgstr "Visión general del empleador"
+
+#: comments.php:83
+#, fuzzy
+msgid "Enter Your Email"
+msgstr "Introduzca su correo electrónico"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:596
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1033
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1094
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:702
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:802
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:803
+#, fuzzy
+msgid "Enter Your Email Address"
+msgstr "Introduzca su dirección de correo electrónico"
+
+#: comments.php:77 wp-jobsearch/detail-pages/candidate/view2-candidate.php:588
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1025
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1086
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:695
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:796
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:797
+#, fuzzy
+msgid "Enter Your Name"
+msgstr "Introduzca su nombre"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:604
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1041
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1102
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:709
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:808
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:809
+#, fuzzy
+msgid "Enter Your Phone Number"
+msgstr "Introduzca su número de teléfono"
+
+#: functions.php:171
+#, fuzzy
+msgid "Envato Market"
+msgstr "Mercado de Envato"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:556
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:840
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:705
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:731
+#, fuzzy
+msgid "Experience"
+msgstr "Experiencia"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:520
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:410
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:365
+#, fuzzy, php-format
+msgid "Experience: %s"
+msgstr "Experiencia:% s"
+
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:170
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:170
+#, fuzzy
+msgid "Expert"
+msgstr "Expert"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:565
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:768
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:797
+#, fuzzy
+msgid "Expertise"
+msgstr "Experiencia"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:903
+#, fuzzy
+msgid "Expertise / Personal abilities"
+msgstr "Experiencia/capacidades personales"
+
+#: inc/class-tgm-plugin-activation.php:2371
+#, fuzzy
+msgid "External Source"
+msgstr "Fuente externa"
+
+#. Author of the theme
+#: inc/footer-functions.php:44
+#, fuzzy
+msgid "Eyecix"
+msgstr "Eyecix"
+
+#: wp-jobsearch/jobs/view-grid-job-template.php:158
+#: wp-jobsearch/jobs/view-grid-job-template.php:288
+#: wp-jobsearch/jobs/view-medium3-job-template.php:213
+#: wp-jobsearch/jobs/view-medium3-job-template.php:346
+#: wp-jobsearch/jobs/view-listing2-job-template.php:171
+#: wp-jobsearch/jobs/view-listing2-job-template.php:331
+#: wp-jobsearch/jobs/view-grid2-job-template.php:163
+#: wp-jobsearch/jobs/view-grid2-job-template.php:292
+#: wp-jobsearch/jobs/view-medium-job-template.php:169
+#: wp-jobsearch/jobs/view-medium-job-template.php:301
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:171
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:304
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:945
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:987
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:552
+#, fuzzy
+msgid "Featured"
+msgstr "Destacado"
+
+#: template-parts/content-search.php:28
+#, fuzzy
+msgid "Featured Post"
+msgstr "Puesto destacado"
+
+#: functions.php:47
+#, fuzzy
+msgid "Footer"
+msgstr "Pie de página"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:446
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:484
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:386
+#, fuzzy
+msgid "Free"
+msgstr "Libre"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:473
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:477
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:511
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:515
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:413
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:417
+#, fuzzy
+msgid "Get Started"
+msgstr "Empezar"
+
+#: inc/theme-functions.php:1071
+#, fuzzy
+msgid "Go To Updates"
+msgstr "Ir a actualizaciones"
+
+#: inc/footer-functions.php:139
+#, fuzzy
+msgid "Google"
+msgstr "Google"
+
+#: inc/header-functions.php:2007
+#, fuzzy
+msgid "Header Twelve Top Menu"
+msgstr "Encabezado doce menú superior"
+
+#: inc/class-tgm-plugin-activation.php:3585
+#: inc/class-tgm-plugin-activation.php:3593
+#, fuzzy
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:229
+#, fuzzy
+msgid "Hire Me"
+msgstr "Contratadme."
+
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:272
+#, fuzzy
+msgid "Home"
+msgstr "Inicio"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:584
+#, fuzzy
+msgid "Honors & Awards"
+msgstr "Honores y premios"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:1048
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:895
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:934
+#, fuzzy
+msgid "Honors & awards"
+msgstr "Honores y premios"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:669
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:647
+#, fuzzy, php-format
+msgid "Hotline: %s"
+msgstr "Línea directa:% s"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:571
+#: wp-jobsearch/detail-pages/job/view3-job.php:460
+#, fuzzy
+msgid "Hours"
+msgstr "Horas"
+
+#. Author URI of the theme
+#, fuzzy
+msgid "http://eyecix.com/"
+msgstr "Http: //Eyecix.Com/"
+
+#. URI of the theme
+#, fuzzy
+msgid "https://careerfy.net/"
+msgstr "Https: //Careerfy.Net/"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:373
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:411
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:313
+#, fuzzy
+msgid ""
+"If you are employer just login to view this candidate or buy a C.V package "
+"to download His Resume."
+msgstr ""
+"Si usted es el empleador sólo Inicie sesión para ver a este candidato o "
+"comprar un paquete C.V para descargar su currículum."
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:158
+#: wp-jobsearch/detail-pages/job/view3-job.php:93
+#: wp-jobsearch/detail-pages/job/view5-job.php:127
+#: wp-jobsearch/detail-pages/job/view4-job.php:91
+#, fuzzy
+msgid "in"
+msgstr "In"
+
+#: inc/template-tags.php:26
+#, fuzzy
+msgid "in "
+msgstr "In"
+
+#: inc/class-tgm-plugin-activation.php:2793
+#, fuzzy
+msgid "Install"
+msgstr "Instalar"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2679
+#, php-format
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: functions.php:314 inc/class-tgm-plugin-activation.php:335
+#, fuzzy
+msgid "Install Plugins"
+msgstr "Instalar complementos"
+
+#: functions.php:313 inc/class-tgm-plugin-activation.php:334
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "Instalar complementos requeridos"
+
+#. 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2418
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2395
+#, fuzzy
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: inc/class-tgm-plugin-activation.php:2566
+#, fuzzy
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar y activar Plugin %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación del complemento %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: functions.php:316 inc/class-tgm-plugin-activation.php:337
+#, fuzzy, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalación del complemento:% s"
+
+#: inc/footer-functions.php:133
+#, fuzzy
+msgid "IOS"
+msgstr "Ios"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:296
+#: wp-jobsearch/detail-pages/job/view3-job.php:346
+#: wp-jobsearch/detail-pages/job/view5-job.php:368
+#: wp-jobsearch/detail-pages/job/view4-job.php:281
+#, fuzzy
+msgid "Job Description"
+msgstr "Descripción del trabajo"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:271
+#: wp-jobsearch/detail-pages/job/view5-job.php:343
+#, fuzzy
+msgid "Job Detail"
+msgstr "Detalles del trabajo"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:522
+#, fuzzy
+msgid "Job Location"
+msgstr "Ubicación del trabajo"
+
+#: wp-jobsearch/employers/view-listing2-employer-template.php:208
+#, fuzzy
+msgid "Job Offer"
+msgstr "Oferta de trabajo"
+
+#: wp-jobsearch/employers/view-listing2-employer-template.php:206
+#, fuzzy
+msgid "Job Offers"
+msgstr "Ofertas de trabajo"
+
+#: searchform.php:3
+#, fuzzy
+msgid "Keywords..."
+msgstr "Palabras clave..."
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:418
+#, fuzzy
+msgid "Know someone who would be perfect for this role? Be a pal, let"
+msgstr ""
+"¿Conoces a alguien que sería perfecto para este papel? Sé un amigo, vamos."
+
+#: wp-jobsearch/detail-pages/job/view4-job.php:209
+#, fuzzy
+msgid "Last Date "
+msgstr "Última fecha"
+
+#: comments.php:69
+#, fuzzy
+msgid "Leave a Comment"
+msgstr "Deja un comentario"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:589
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:482
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:435
+#, fuzzy
+msgid "Load More"
+msgstr "Cargar más"
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:185
+#, fuzzy
+msgid "Location"
+msgstr "Zona"
+
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:190
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:478
+#: wp-jobsearch/detail-pages/job/view5-job.php:503
+#, fuzzy
+msgid "Location:"
+msgstr "Ubicación:"
+
+#: functions.php:255
+#, fuzzy
+msgid "Loco Translate"
+msgstr "Loco traducir"
+
+#: inc/header-functions.php:1776 inc/header-functions.php:1868
+#: inc/header-functions.php:1884 inc/header-functions.php:1900
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:388
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:426
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:327
+#, fuzzy
+msgid "Login"
+msgstr "Inicio de sesión"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:650
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1088
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1148
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:751
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:852
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:853
+#, fuzzy
+msgid "login"
+msgstr "Inicio de sesión"
+
+#: functions.php:284
+#, fuzzy
+msgid "Login as User"
+msgstr "Iniciar sesión como usuario"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:380
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:418
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:319
+msgid "Logout"
+msgstr "Salir"
+
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:161
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:161
+#, fuzzy
+msgid "Low"
+msgstr "Baja"
+
+#: template-parts/content-none.php:20
+#, fuzzy
+msgid "Make sure all words are spelled correctly"
+msgstr "Asegúrese de que todas las palabras se escriben correctamente"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:248
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:278
+#, fuzzy, php-format
+msgid "Member Since, %s"
+msgstr "Miembro desde,% s"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:609
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1046
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1107
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:714
+#, fuzzy
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: inc/class-tgm-plugin-activation.php:2574
+#, fuzzy
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:572
+#: wp-jobsearch/detail-pages/job/view3-job.php:461
+#, fuzzy
+msgid "Minutes"
+msgstr "Actas"
+
+#: wp-jobsearch/candidates/view-fancy-4-candidate-template.php:259
+#, fuzzy
+msgid "More Detail"
+msgstr "Más detalles"
+
+#: inc/theme-functions.php:1060
+#, fuzzy
+msgid "Must Update Careerfy Required Plugins!"
+msgstr "Debe actualizar Careerfy Complementos requeridos!"
+
+#: comments.php:76
+#, fuzzy
+msgid "Name"
+msgstr "Nombre"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:487
+#, fuzzy
+msgid "Name: "
+msgstr "Nombre:"
+
+#: wp-jobsearch/jobs/view-medium3-job-template.php:219
+#: wp-jobsearch/jobs/view-medium3-job-template.php:350
+#, fuzzy
+msgid "New"
+msgstr "Nuevo"
+
+#: comments.php:46
+#, fuzzy
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:195
+#, fuzzy
+msgid "Next Job"
+msgstr "Próximo trabajo"
+
+#: inc/theme-functions.php:368
+#, fuzzy
+msgid "Next Post"
+msgstr "Entrada siguiente"
+
+#. 1: plugin name.
+#: functions.php:357 inc/class-tgm-plugin-activation.php:388
+#, fuzzy, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se han tomado medidas. Plugin% 1 $s ya estaba activo."
+
+#: template-parts/content-none.php:18
+#, fuzzy, php-format
+msgid "No pages were found containing \"%s\""
+msgstr "No se encontraron páginas que contengan «% s»"
+
+#: inc/class-tgm-plugin-activation.php:3010
+#, fuzzy
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay Plugins disponibles para ser activados en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2876
+#, fuzzy
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay Plugins disponibles para ser instalados en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2878
+#, fuzzy
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay Plugins disponibles para ser actualizado en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2609
+#, fuzzy
+msgid "No plugins to install, update or activate."
+msgstr "No hay complementos para instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:2984
+#, fuzzy
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"No se seleccionaron complementos para ser activados. No se han tomado "
+"medidas."
+
+#: inc/class-tgm-plugin-activation.php:2833
+#, fuzzy
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"No se seleccionaron complementos para ser instalados. No se han tomado "
+"medidas."
+
+#: inc/class-tgm-plugin-activation.php:2835
+#, fuzzy
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"No se seleccionaron complementos para actualizarse. No se han tomado medidas."
+
+#: wp-jobsearch/candidates/view-fancy-4-candidate-template.php:279
+#: wp-jobsearch/candidates/view-modern-candidate-template.php:198
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:218
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:255
+#: wp-jobsearch/candidates/view-fancy-2-candidate-template.php:220
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:222
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:241
+#: wp-jobsearch/employers/view-listing2-employer-template.php:240
+#: wp-jobsearch/employers/view-slider-employer-template.php:285
+#: wp-jobsearch/employers/view-grid-employer-template.php:267
+#: wp-jobsearch/jobs/view-grid3-job-template.php:327
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:422
+#: wp-jobsearch/jobs/view-grid-job-template.php:376
+#: wp-jobsearch/jobs/view-medium3-job-template.php:376
+#: wp-jobsearch/jobs/view-listing2-job-template.php:446
+#: wp-jobsearch/jobs/view-medium2-job-template.php:324
+#: wp-jobsearch/jobs/view-grid2-job-template.php:377
+#: wp-jobsearch/jobs/view-medium-job-template.php:382
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:385
+#, fuzzy
+msgid "No Record"
+msgstr "Sin registro"
+
+#: inc/theme-functions.php:1074
+#, fuzzy
+msgid "No Thanks"
+msgstr "No, gracias."
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:192
+#, fuzzy
+msgid "No. Vacancy"
+msgstr "No. Vacantes"
+
+#: inc/class-tgm-plugin-activation.php:2391
+#, fuzzy
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:922
+#, fuzzy
+msgid "of 100"
+msgstr "De 100"
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:173
+#: wp-jobsearch/detail-pages/job/view4-job.php:147
+#, fuzzy
+msgid "Offered Salary"
+msgstr "Salario ofrecido"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:795
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:222
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:520
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:904
+#, fuzzy
+msgid "Office Photos"
+msgstr "Fotografías de oficina"
+
+#: comments.php:45
+#, fuzzy
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:444
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:482
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:384
+msgid "only"
+msgstr "a"
+
+#: 404.php:32
+#, fuzzy
+msgid "Ooops! Page Not Found!"
+msgstr "¡Ooops! ¡Página no encontrada!"
+
+#: wp-jobsearch/candidates/view-fancy-4-candidate-template.php:282
+#: wp-jobsearch/candidates/view-modern-candidate-template.php:201
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:221
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:258
+#: wp-jobsearch/candidates/view-fancy-2-candidate-template.php:223
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:225
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:244
+#: wp-jobsearch/employers/view-listing2-employer-template.php:243
+#: wp-jobsearch/employers/view-slider-employer-template.php:288
+#: wp-jobsearch/employers/view-grid-employer-template.php:270
+#: wp-jobsearch/jobs/view-grid3-job-template.php:330
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:425
+#: wp-jobsearch/jobs/view-grid-job-template.php:379
+#: wp-jobsearch/jobs/view-medium3-job-template.php:379
+#: wp-jobsearch/jobs/view-listing2-job-template.php:449
+#: wp-jobsearch/jobs/view-medium2-job-template.php:327
+#: wp-jobsearch/jobs/view-grid2-job-template.php:380
+#: wp-jobsearch/jobs/view-medium-job-template.php:385
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:388
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:405
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:443
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:345
+#, fuzzy
+msgid "OR"
+msgstr "O"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:200
+#, fuzzy
+msgid "OverView"
+msgstr "Sinopsis"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:302
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:258
+#, fuzzy
+msgid "Overview"
+msgstr "Sinopsis"
+
+#: template-parts/content-single.php:61 template-parts/content-page.php:26
+#, fuzzy
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/theme-functions.php:636
+#, fuzzy
+msgid "Password To view this protected post, enter the password below:"
+msgstr ""
+"Contraseña para ver este mensaje protegido, introduzca la Contraseña a "
+"continuación:"
+
+#: template-parts/content-none.php:25
+#, fuzzy
+msgid "Perhaps try another search:"
+msgstr "Tal vez intente otra búsqueda:"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:602
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1039
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1100
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:707
+#, fuzzy
+msgid "Phone Number:"
+msgstr "Número de teléfono:"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:490
+#, fuzzy
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:369
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:403
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:309
+#, fuzzy
+msgid "Please buy a C.V package to view this candidate."
+msgstr "Por favor, compre un paquete C.V para ver a este candidato."
+
+#: functions.php:364 inc/class-tgm-plugin-activation.php:395
+#, fuzzy
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Póngase en contacto con el administrador de este sitio para obtener ayuda."
+
+#: inc/class-tgm-plugin-activation.php:1010
+#: inc/class-tgm-plugin-activation.php:1013
+#, fuzzy
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Póngase en contacto con el proveedor de complementos y pídales que "
+"empaqueten su complemento de acuerdo con las directrices de Wordpress."
+
+#: inc/class-tgm-plugin-activation.php:2623
+#, fuzzy
+msgid "Plugin"
+msgstr "Complemento"
+
+#: inc/class-tgm-plugin-activation.php:1197
+#: inc/class-tgm-plugin-activation.php:3024
+#, fuzzy
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "Y"
+
+#: functions.php:354 inc/class-tgm-plugin-activation.php:385
+#: inc/class-tgm-plugin-activation.php:3235
+#, fuzzy
+msgid "Plugin activated successfully."
+msgstr "Complemento activado con éxito."
+
+#: inc/class-tgm-plugin-activation.php:3234
+#, fuzzy
+msgid "Plugin activation failed."
+msgstr "Falló la activación del complemento."
+
+#. 1: plugin name.
+#: functions.php:359 inc/class-tgm-plugin-activation.php:390
+#, fuzzy, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Complemento no activado. Se necesita una versión más alta de % s para este "
+"tema. Por favor, actualice el complemento."
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2464
+#, fuzzy, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(% s) </span>"
+msgstr[1] "Todos <span class=\"count\">(% s) </span>"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:574
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:971
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:819
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:850
+#, fuzzy
+msgid "Portfolio"
+msgstr "Cartera"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:238
+#: wp-jobsearch/detail-pages/job/view5-job.php:103
+#, fuzzy
+msgid "Posted"
+msgstr "Publicado"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:135
+#: wp-jobsearch/detail-pages/job/view3-job.php:76
+#: wp-jobsearch/detail-pages/job/view4-job.php:74
+#, fuzzy
+msgid "posted"
+msgstr "Publicado"
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:177
+#, fuzzy
+msgid "Posted Date"
+msgstr "Fecha de publicación"
+
+#: wp-jobsearch/detail-pages/job/view4-job.php:203
+#, fuzzy
+msgid "Posted Date "
+msgstr "Fecha de publicación"
+
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:226
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:382
+#, fuzzy
+msgid "Posted in:"
+msgstr "Publicado en:"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:382
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:278
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:234
+#, fuzzy
+msgid "Posted Jobs"
+msgstr "Puestos de trabajo publicados"
+
+#: template-parts/content-single.php:107
+#, fuzzy
+msgid "Posts"
+msgstr "Puestos"
+
+#: inc/class-tgm-plugin-activation.php:2374
+#, fuzzy
+msgid "Pre-Packaged"
+msgstr "Preenvasado"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:864
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:730
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:756
+#, fuzzy
+msgid "Present"
+msgstr "Presente"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:193
+#, fuzzy
+msgid "Previous Job"
+msgstr "Cargo anterior"
+
+#: inc/theme-functions.php:343
+#, fuzzy
+msgid "Previous Post"
+msgstr "Cargo anterior"
+
+#: functions.php:46
+#, fuzzy
+msgid "Primary"
+msgstr "Primaria"
+
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:167
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:167
+#, fuzzy
+msgid "Professional"
+msgstr "Cuadro orgánico"
+
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:495
+#, fuzzy
+msgid "Profile Created:"
+msgstr "Perfil creado:"
+
+#: inc/header-functions.php:1835
+msgid "Publicar gratis"
+msgstr "Publicar Gratis "
+
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:184
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:339
+#: wp-jobsearch/jobs/view-grid-job-template.php:182
+#: wp-jobsearch/jobs/view-grid-job-template.php:313
+#: wp-jobsearch/jobs/view-listing2-job-template.php:192
+#: wp-jobsearch/jobs/view-listing2-job-template.php:355
+#: wp-jobsearch/jobs/view-medium2-job-template.php:176
+#: wp-jobsearch/jobs/view-medium2-job-template.php:280
+#: wp-jobsearch/jobs/view-grid2-job-template.php:189
+#: wp-jobsearch/jobs/view-grid2-job-template.php:319
+#: wp-jobsearch/jobs/view-medium-job-template.php:186
+#: wp-jobsearch/jobs/view-medium-job-template.php:318
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:189
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:322
+#, fuzzy, php-format
+msgid "Published %s"
+msgstr "Publicado% s"
+
+#: inc/theme-functions.php:87
+#, fuzzy
+msgid "Read More"
+msgstr "Leer más"
+
+#: template-parts/content-search.php:33
+#, fuzzy
+msgid "read more"
+msgstr "Leer más"
+
+#: template-parts/content-none.php:15
+#, fuzzy, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primer post? <a href=\"%1$s\">Empieza aquí. </a>."
+
+#: inc/class-tgm-plugin-activation.php:2352
+#, fuzzy
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/header-functions.php:1782 inc/header-functions.php:1854
+msgid "Register"
+msgstr "Crear cuenta"
+
+#: inc/header-functions.php:1822
+msgid "Register / Login"
+msgstr "Crear cuenta / Iniciar"
+
+#: template-parts/content-single.php:107
+#, fuzzy
+msgid "Related"
+msgstr "Relacionados"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:531
+#: wp-jobsearch/detail-pages/job/view3-job.php:422
+#: wp-jobsearch/detail-pages/job/view5-job.php:550
+#: wp-jobsearch/detail-pages/job/view4-job.php:460
+#, fuzzy
+msgid "Related Jobs"
+msgstr "Trabajos relacionados"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:900
+#, fuzzy
+msgid "Related Jobs by "
+msgstr "Empleos relacionados por"
+
+#: inc/theme-functions.php:519
+#, fuzzy
+msgid "Reply to this comment"
+msgstr "Respuesta a este comentario"
+
+#: inc/class-tgm-plugin-activation.php:2349
+#, fuzzy
+msgid "Required"
+msgstr "Requerido"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:367
+#: wp-jobsearch/detail-pages/job/view5-job.php:439
+#, fuzzy
+msgid "Required skills"
+msgstr "Competencias requeridas"
+
+#: inc/class-tgm-plugin-activation.php:2403
+#, fuzzy
+msgid "Required Update not Available"
+msgstr "No se dispone de la actualización necesaria"
+
+#: inc/class-tgm-plugin-activation.php:2406
+#, fuzzy
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: wp-jobsearch/candidates/view-fancy-4-candidate-template.php:283
+#: wp-jobsearch/candidates/view-modern-candidate-template.php:202
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:222
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:259
+#: wp-jobsearch/candidates/view-fancy-2-candidate-template.php:224
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:226
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:245
+#: wp-jobsearch/employers/view-listing2-employer-template.php:244
+#: wp-jobsearch/employers/view-slider-employer-template.php:289
+#: wp-jobsearch/employers/view-grid-employer-template.php:271
+#: wp-jobsearch/jobs/view-grid3-job-template.php:331
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:426
+#: wp-jobsearch/jobs/view-grid-job-template.php:380
+#: wp-jobsearch/jobs/view-medium3-job-template.php:380
+#: wp-jobsearch/jobs/view-listing2-job-template.php:450
+#: wp-jobsearch/jobs/view-medium2-job-template.php:328
+#: wp-jobsearch/jobs/view-grid2-job-template.php:381
+#: wp-jobsearch/jobs/view-medium-job-template.php:386
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:389
+#, fuzzy
+msgid "Reset Filters"
+msgstr "Reiniciar filtros"
+
+#: functions.php:353 inc/class-tgm-plugin-activation.php:383
+#, fuzzy
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de complementos requerido"
+
+#: inc/class-tgm-plugin-activation.php:384
+#: inc/class-tgm-plugin-activation.php:903
+#: inc/class-tgm-plugin-activation.php:2609
+#: inc/class-tgm-plugin-activation.php:3656
+#, fuzzy
+msgid "Return to the Dashboard"
+msgstr "Volver al panel de mando"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:235
+#, fuzzy
+msgid "Reviews"
+msgstr "Exámenes"
+
+#: functions.php:202
+#, fuzzy
+msgid "Revolution Slider"
+msgstr "Deslizador de revolución"
+
+#: wp-jobsearch/candidates/view-fancy-2-candidate-template.php:138
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:141
+#, fuzzy
+msgid "Salary"
+msgstr "Salario"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:249
+#, fuzzy, php-format
+msgid "Salary: %s"
+msgstr "Sueldo:% s"
+
+#: woocommerce/content-product.php:64 woocommerce/content-product.php:97
+#, fuzzy
+msgid "Sale!"
+msgstr "¡Rebajas!"
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:217
+#: wp-jobsearch/detail-pages/job/view5-job.php:312
+#: wp-jobsearch/detail-pages/job/view4-job.php:218
+#, fuzzy
+msgid "Save Job"
+msgstr "Guardar trabajo"
+
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:233
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:389
+#: wp-jobsearch/detail-pages/job/view2-job.php:433
+#, fuzzy
+msgid "Save job"
+msgstr "Guardar trabajo"
+
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:232
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:388
+#: wp-jobsearch/detail-pages/job/view3-job.php:218
+#: wp-jobsearch/detail-pages/job/view5-job.php:313
+#: wp-jobsearch/detail-pages/job/view4-job.php:219
+#, fuzzy
+msgid "Saved"
+msgstr "Guardado"
+
+#: searchform.php:4
+#, fuzzy
+msgid "Search"
+msgstr "Buscar"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:572
+#: wp-jobsearch/detail-pages/job/view3-job.php:461
+#, fuzzy
+msgid "Seconds"
+msgstr "Segundos"
+
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:232
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:201
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:486
+#, fuzzy
+msgid "Sector:"
+msgstr "Sector:"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:423
+#, fuzzy, php-format
+msgid "Sector: %s"
+msgstr "Sector:% s"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:270
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:227
+#, fuzzy
+msgid "Sectors"
+msgstr "Sectores"
+
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:210
+#, fuzzy, php-format
+msgid "see more %s candidates"
+msgstr "Ver más% s candidatos"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:71
+#: wp-jobsearch/detail-pages/job/view5-job.php:74
+#, php-format
+msgid "see more %s jobs"
+msgstr "Ver más %s de trabajos"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:484
+#: wp-jobsearch/detail-pages/job/view3-job.php:248
+#, fuzzy
+msgid "Send a message"
+msgstr "Enviar un mensaje"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:645
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1082
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1142
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:747
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:847
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:848
+#, fuzzy
+msgid "Send now"
+msgstr "Enviar ahora"
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:201
+#, fuzzy
+msgid "Share this Job"
+msgstr "Compartir este trabajo"
+
+#: wp-jobsearch/detail-pages/job/view4-job.php:239
+#, fuzzy
+msgid "Share this Job "
+msgstr "Compartir este trabajo"
+
+#: wp-jobsearch/detail-pages/job/view4-job.php:357
+#, fuzzy
+msgid "Shortlist"
+msgstr "Lista abreviada"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:434
+#: wp-jobsearch/detail-pages/job/view4-job.php:358
+#, fuzzy
+msgid "Shortlisted"
+msgstr "Lista preseleccionada"
+
+#: inc/class-tgm-plugin-activation.php:3585
+#: inc/class-tgm-plugin-activation.php:3593
+#, fuzzy
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: search.php:41
+#, fuzzy, php-format
+msgid "Showing result for \"%s\""
+msgstr "Mostrando el resultado para «% s»"
+
+#. %d: total results
+#: woocommerce/loop/result-count.php:38
+#, fuzzy, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Mostrando el único resultado"
+msgstr[1] "Mostrando todos %d  resultados"
+
+#: functions.php:379
+#, fuzzy
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/header-functions.php:1791 inc/header-functions.php:1802
+#: inc/header-functions.php:1848
+#, fuzzy
+msgid "Sign In"
+msgstr "Iniciar sesión"
+
+#: inc/header-functions.php:1808
+#, fuzzy
+msgid "Sign Up"
+msgstr "Inscríbete"
+
+#: inc/header-functions.php:1871 inc/header-functions.php:1887
+#: inc/header-functions.php:1903
+#, fuzzy
+msgid "Signup"
+msgstr "Inscripción"
+
+#: wp-jobsearch/detail-pages/job/view3-job.php:294
+#, fuzzy
+msgid "Similar Jobs"
+msgstr "Empleos similares"
+
+#: wp-jobsearch/detail-pages/candidate/view5-candidate.php:594
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:736
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:602
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:628
+#, fuzzy
+msgid "Skills"
+msgstr "Competencias"
+
+#: functions.php:319 inc/class-tgm-plugin-activation.php:340
+#, fuzzy
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API de Plugin."
+
+#: 404.php:33
+#, fuzzy
+msgid ""
+"Sorry !  We could not Find What You Are Looking For, Try With New Search"
+msgstr ""
+"¡Lo siento!  No pudimos encontrar lo que está buscando, pruebe con una nueva "
+"búsqueda"
+
+#: wp-jobsearch/candidates/view-fancy-4-candidate-template.php:280
+#: wp-jobsearch/candidates/view-modern-candidate-template.php:199
+#: wp-jobsearch/candidates/view-classic-candidate-template.php:219
+#: wp-jobsearch/candidates/view-grid-candidate-template.php:256
+#: wp-jobsearch/candidates/view-fancy-2-candidate-template.php:221
+#: wp-jobsearch/candidates/view-fancy-candidate-template.php:223
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:242
+#: wp-jobsearch/employers/view-listing2-employer-template.php:241
+#: wp-jobsearch/employers/view-slider-employer-template.php:286
+#: wp-jobsearch/employers/view-grid-employer-template.php:268
+#: wp-jobsearch/jobs/view-grid3-job-template.php:328
+#: wp-jobsearch/jobs/view-grid-4-job-template.php:423
+#: wp-jobsearch/jobs/view-grid-job-template.php:377
+#: wp-jobsearch/jobs/view-medium3-job-template.php:377
+#: wp-jobsearch/jobs/view-listing2-job-template.php:447
+#: wp-jobsearch/jobs/view-medium2-job-template.php:325
+#: wp-jobsearch/jobs/view-grid2-job-template.php:378
+#: wp-jobsearch/jobs/view-medium-job-template.php:383
+#: wp-jobsearch/jobs/view-listing-10-job-template.php:386
+#, fuzzy
+msgid "Sorry!"
+msgstr "¡Lo siento!"
+
+#: inc/class-tgm-plugin-activation.php:2624
+#, fuzzy
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/class-tgm-plugin-activation.php:2630
+#, fuzzy
+msgid "Status"
+msgstr "Situación"
+
+#: inc/theme-functions.php:638
+#, fuzzy
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/template-tags.php:51
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: template-parts/content-single.php:74
+#, fuzzy
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:469
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:214
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:315
+#, fuzzy
+msgid "Team Members"
+msgstr "Miembros del equipo"
+
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:357
+#, fuzzy, php-format
+msgid "Team Members (%s)"
+msgstr "Miembros del equipo (% s)"
+
+#: wp-jobsearch/employers/view-grid-employer-template.php:226
+#, fuzzy
+msgid "team size"
+msgstr "Tamaño del equipo"
+
+#. %s: version number
+#: inc/class-tgm-plugin-activation.php:2058
+#, fuzzy, php-format
+msgid "TGMPA v%s"
+msgstr "Tgmpa V% s"
+
+#: functions.php:328 inc/class-tgm-plugin-activation.php:351
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente complemento necesita ser actualizado a su última versión para "
+"garantizar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes Plugins deben actualizarse a su última versión para "
+"garantizar la máxima compatibilidad con este tema: %1$s."
+
+#: functions.php:355 inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:3028
+#, fuzzy
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente complemento fue activado con éxito:"
+
+#: functions.php:340 inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"El siguiente complemento recomendado está actualmente inactivo: %1$s."
+msgstr[1] ""
+"Los siguientes complementos recomendados están actualmente inactivos: %1$s."
+
+#: functions.php:336 inc/class-tgm-plugin-activation.php:361
+#, fuzzy, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+"El siguiente complemento requerido está actualmente inactivo:% 1 $S."
+msgstr[1] ""
+"Los siguientes complementos requeridos están actualmente inactivos:% 1 $S."
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, fuzzy
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Se inicia el proceso de instalación y activación. Este proceso puede tomar "
+"un tiempo en algunos anfitriones, así que por favor tenga paciencia."
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3579
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+#: inc/class-tgm-plugin-activation.php:3591
+#, fuzzy
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está comenzando. Este proceso puede tomar un "
+"tiempo en algunos anfitriones, así que por favor tenga paciencia."
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:359
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:391
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:300
+#, fuzzy
+msgid "The Page is Restricted only for Subscribed Employers"
+msgstr "La página está restringida sólo para los empleadores suscritos"
+
+#: inc/class-tgm-plugin-activation.php:1013
+#, fuzzy
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete remoto Plugin consiste en más de un archivo, pero los archivos no "
+"se empaquetan en una carpeta."
+
+#: inc/class-tgm-plugin-activation.php:1010
+#, fuzzy
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete remoto Plugin no contiene una carpeta con la bala deseada y "
+"Renaming no funcionó."
+
+#: functions.php:363 inc/class-tgm-plugin-activation.php:394
+#, fuzzy
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay uno o más Plugins requeridos o recomendados para instalar, actualizar o "
+"activar."
+
+#: functions.php:332 inc/class-tgm-plugin-activation.php:356
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes Plugins: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:598
+#, fuzzy
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Este complemento necesita ser actualizado para ser compatible con su tema."
+
+#: functions.php:324 inc/class-tgm-plugin-activation.php:346
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente Plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes Plugins: %1$s."
+
+#: functions.php:320 inc/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente complemento: %1$s."
+msgstr[1] "Este tema requiere los siguientes Plugins: %1$s."
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2476
+#, fuzzy, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(% s) </span>"
+msgstr[1] "Para activar <span class=\"count\">(% s) </span>"
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2468
+#, fuzzy, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(% s) </span>"
+msgstr[1] "Para instalar <span class=\"count\">(% s) </span>"
+
+#: template-parts/content-none.php:22
+#, fuzzy
+msgid "Try more general keywords, especially if you are attempting a name"
+msgstr ""
+"Pruebe palabras clave más generales, especialmente si está intentando un "
+"nombre"
+
+#: inc/class-tgm-plugin-activation.php:2625
+#, fuzzy
+msgid "Type"
+msgstr "Tipo"
+
+#: comments.php:91
+#, fuzzy
+msgid "Type Your Comment"
+msgstr "Escribe tu comentario"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:611
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1048
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1109
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:716
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:814
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:815
+#, fuzzy
+msgid "Type Your Message here"
+msgstr "Escriba su mensaje aquí"
+
+#: inc/class-tgm-plugin-activation.php:2799
+#, fuzzy
+msgid "Update"
+msgstr "Actualizar"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2684
+#, php-format
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2472
+#, fuzzy, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(% s) </span>"
+msgstr[1] "Actualización disponible <span class=\"count\">(% s) </span>"
+
+#: inc/class-tgm-plugin-activation.php:2409
+#, fuzzy
+msgid "Update recommended"
+msgstr "Actualizar recomendado"
+
+#: inc/class-tgm-plugin-activation.php:599
+#, fuzzy
+msgid "Update Required"
+msgstr "Se requiere actualización"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3574
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando Plugin %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: functions.php:318 inc/class-tgm-plugin-activation.php:339
+#, fuzzy, php-format
+msgid "Updating Plugin: %s"
+msgstr "Actualizando complemento:% s"
+
+#: inc/class-tgm-plugin-activation.php:2760
+#, fuzzy
+msgid "Upgrade message from the plugin author:"
+msgstr "Actualizar el mensaje del autor del complemento:"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:586
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:1023
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:1084
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:693
+#, fuzzy
+msgid "User Name:"
+msgstr "Nombre de usuario:"
+
+#: wp-jobsearch/employers/view-slider-employer-template.php:254
+#: wp-jobsearch/employers/view-grid-employer-template.php:236
+#, fuzzy
+msgid "Vacancies"
+msgstr "Vacantes"
+
+#: wp-jobsearch/employers/view-slider-employer-template.php:256
+#: wp-jobsearch/employers/view-grid-employer-template.php:238
+#, fuzzy
+msgid "Vacancy"
+msgstr "Vacantes"
+
+#: inc/class-tgm-plugin-activation.php:2629
+#, fuzzy
+msgid "Version"
+msgstr "Versión"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:206
+#: wp-jobsearch/detail-pages/job/view5-job.php:284
+#: wp-jobsearch/detail-pages/job/view4-job.php:168
+#, fuzzy
+msgid "View on Map"
+msgstr "Ver en el mapa"
+
+#: wp-jobsearch/candidates/view-fancy-3-candidate-template.php:227
+#, fuzzy
+msgid "View Profile"
+msgstr "Ver perfil"
+
+#: wp-jobsearch/detail-pages/job/view2-job.php:256
+#: wp-jobsearch/detail-pages/job/view5-job.php:291
+#, fuzzy
+msgid "View(s)"
+msgstr "Vista (s)"
+
+#: wp-jobsearch/detail-pages/employer/view4-employer.php:391
+#: wp-jobsearch/detail-pages/employer/view2-employer.php:288
+#: wp-jobsearch/detail-pages/employer/view3-employer.php:244
+#, fuzzy
+msgid "Viewed"
+msgstr "Visto"
+
+#: wp-jobsearch/detail-pages/job/view4-job.php:196
+#, fuzzy
+msgid "Views "
+msgstr "Dictámenes"
+
+#: wp-jobsearch/detail-pages/job/view5-job.php:499
+#, fuzzy
+msgid "Website:"
+msgstr "Sitio web:"
+
+#: template-parts/content-none.php:21
+#, fuzzy
+msgid "Wildcard searches (using the Asterisk *) are not supported"
+msgstr "Las búsquedas de comodines (usando el Asterisco *) no son compatibles"
+
+#. 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:41
+#, fuzzy, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Mostrando el único resultado"
+msgstr[1] "Mostrando %1$d&ndash;%2$d of %3$d resultados"
+
+#: functions.php:213
+#, fuzzy
+msgid "WooCommerce"
+msgstr "Woocommerce"
+
+#: inc/class-tgm-plugin-activation.php:2368
+#, fuzzy
+msgid "WordPress Repository"
+msgstr "Repositorio de Wordpress"
+
+#: functions.php:264
+#, fuzzy
+msgid "WP All Import"
+msgstr "Wp toda la importación"
+
+#: functions.php:273
+#, fuzzy
+msgid "WP All Import Wp Jobsearch Add-On"
+msgstr "Wp toda la importación Wp complemento de búsqueda de trabajo"
+
+#: functions.php:160
+#, fuzzy
+msgid "WP JobSearch"
+msgstr "Wp Jobsearch"
+
+#: inc/theme-functions.php:757
+#, fuzzy
+msgid "WP Jobsearch Plugin"
+msgstr "Complemento de búsqueda de trabajo Wp"
+
+#: functions.php:182
+#, fuzzy
+msgid "WPBakery Page Builder"
+msgstr "Constructor de páginas de Wpbakery"
+
+#: wp-jobsearch/detail-pages/candidate/view2-candidate.php:371
+#: wp-jobsearch/detail-pages/candidate/view4-candidate.php:407
+#: wp-jobsearch/detail-pages/candidate/view3-candidate.php:311
+#, fuzzy
+msgid "You are not an employer. Only an Employer can view a candidate."
+msgstr "Usted no es un empleador. Sólo un empleador puede ver a un candidato."
+
+#: inc/theme-functions.php:553 inc/theme-functions.php:599
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está a la espera de moderación."

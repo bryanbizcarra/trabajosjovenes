@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP All Import Wp Jobsearch Add-On\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-24 14:54+0000\n"
+"PO-Revision-Date: 2023-01-20 12:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Mexico)\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wp-all-import-jobsearch"
+
+#. Description of the plugin
+msgid "An add-on for importing data to certain Wp Jobsearch fields."
+msgstr ""
+
+#. Author of the plugin
+msgid "Eyecix"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP All Import Wp Jobsearch Add-On"
+msgstr ""

@@ -1,0 +1,50 @@
+2023-04-26T20:30:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\class-wpdb.php en la línea 2431
+
+2023-04-26T20:32:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T20:36:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T20:45:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T20:50:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:02:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:05:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:10:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:15:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:19:55+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php:64
+Stack trace:
+#0 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#1 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#2 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#3 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#4 C:\xam en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php en la línea 64
+
+2023-04-26T21:25:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:30:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 205
+
+2023-04-26T21:35:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:40:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:45:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T21:48:45+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php:64
+Stack trace:
+#0 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#1 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#2 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#3 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#4 C:\xam en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php en la línea 64
+
+2023-04-26T21:57:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 205
+
+2023-04-26T22:01:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-26T23:05:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+

@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Addon Jobsearch Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-23 13:17+0000\n"
+"PO-Revision-Date: 2023-03-13 20:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Chile\n"
+"Language: es_CL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: addon-jobsearch-chat.php:230
+#, fuzzy
+msgid ""
+"<em><b>Addon Jobsearch Chat</b></em> needs the <b>WP Jobsearch</b> plugin. "
+"Please install and activate it."
+msgstr ""
+"<em><b>Añadir chat de búsqueda de empleo </b></em>Necesita el <b>Wp "
+"Jobsearch </b>Complemento. Por favor, instale y active."
+
+#. Name of the plugin
+#, fuzzy
+msgid "Addon Jobsearch Chat"
+msgstr "Añadir chat de búsqueda de empleo"
+
+#: includes/jobsearch-chat-hooks.php:592
+#, fuzzy
+msgid "All"
+msgstr "Todos"
+
+#: includes/backend/jobsearch-chat-backend-view.php:61
+#, fuzzy
+msgid "Candidate"
+msgstr "Candidato"
+
+#: includes/jobsearch-chat-hooks.php:167
+#: includes/front/jobsearch-chat-toggle-view.php:333
+#, fuzzy
+msgid "Chat"
+msgstr "Charla"
+
+#: includes/jobsearch-chat-hooks.php:133
+#, fuzzy
+msgid "Chat Box"
+msgstr "Cuadro de conversación"
+
+#. page title
+#: includes/jobsearch-chat-hooks.php:140 includes/jobsearch-chat-hooks.php:141
+#, fuzzy
+msgid "Chat Box Settings"
+msgstr "Configuración del cuadro de conversación"
+
+#: addon-jobsearch-chat.php:193
+#, fuzzy
+msgid "Chat is disabled now"
+msgstr "El chat está deshabilitado ahora"
+
+#: addon-jobsearch-chat.php:192
+#, fuzzy
+msgid "Chat is enabled now"
+msgstr "La charla está activada ahora"
+
+#: includes/backend/jobsearch-chat-backend-settings.php:45
+#, fuzzy
+msgid "Chat Package Type"
+msgstr "Tipo de paquete de chat"
+
+#: includes/jobsearch-chat-hooks.php:381
+#, fuzzy
+msgid "Chat Pusher API settings section."
+msgstr "Sección de configuración de la API del pulsador de chat."
+
+#: includes/front/jobsearch-chat-toggle-view.php:343
+#, fuzzy
+msgid "Click on settings"
+msgstr "Haga clic en la configuración"
+
+#: includes/front/jobsearch-chat-toggle-view.php:62
+#: includes/front/jobsearch-chat-toggle-view.php:147
+#: includes/front/jobsearch-chat-toggle-view.php:254
+#, fuzzy
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/front/jobsearch-chat-toggle-view.php:375
+#, fuzzy
+msgid "Contacts"
+msgstr "Contactos"
+
+#: includes/jobsearch-chat-hooks.php:797
+#: includes/backend/jobsearch-chat-backend-view.php:157
+#: includes/front/jobsearch-chat-toggle-view.php:468
+#, fuzzy
+msgid "Create New Group"
+msgstr "Crear un nuevo grupo"
+
+#: addon-jobsearch-chat.php:187
+#, fuzzy
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/front/jobsearch-chat-toggle-view.php:358
+#, fuzzy
+msgid "Disable Chat"
+msgstr "Desactivar el chat"
+
+#: includes/backend/jobsearch-chat-backend-settings.php:27
+#, fuzzy
+msgid "Disable for Candidate"
+msgstr "Inhabilitación para el candidato"
+
+#: includes/backend/jobsearch-chat-backend-settings.php:10
+#, fuzzy
+msgid "Disable for Employer"
+msgstr "Inhabilitación para el empleador"
+
+#: includes/jobsearch-chat-hooks.php:596
+#: includes/backend/jobsearch-chat-backend-view.php:57
+#, fuzzy
+msgid "Employer"
+msgstr "Empleador"
+
+#. Author of the plugin
+#, fuzzy
+msgid "Eyecix"
+msgstr "Eyecix"
+
+#: includes/backend/jobsearch-chat-backend-settings.php:50
+#, fuzzy
+msgid "Free"
+msgstr "Libre"
+
+#: includes/front/jobsearch-chat-toggle-view.php:339
+#, fuzzy
+msgid "Full View"
+msgstr "Vista completa"
+
+#: includes/jobsearch-chat-hooks.php:794
+#: includes/backend/jobsearch-chat-backend-view.php:154
+#: includes/front/jobsearch-chat-toggle-view.php:465
+#, fuzzy
+msgid "Group Conversation"
+msgstr "Conversación en grupo"
+
+#: includes/jobsearch-chat-hooks.php:600
+#: includes/backend/jobsearch-chat-backend-view.php:65
+#, fuzzy
+msgid "Groups"
+msgstr "Grupos"
+
+#. URI of the plugin
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://themeforest.net/user/eyecix/"
+msgstr "Https: //Themeforest.Net/User/Eyecix/"
+
+#: includes/front/jobsearch-chat-toggle-view.php:49
+#, fuzzy
+msgid "Live Chat"
+msgstr "Chat en vivo"
+
+#: addon-jobsearch-chat.php:191
+#, fuzzy
+msgid "Loading"
+msgstr "Cargando"
+
+#: includes/jobsearch-chat-hooks.php:199 includes/jobsearch-chat-hooks.php:242
+#, fuzzy
+msgid "Message / Chat"
+msgstr "Mensaje / chat"
+
+#: includes/jobsearch-chat-hooks.php:586
+#: includes/backend/jobsearch-chat-backend-view.php:51
+#, fuzzy
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addon-jobsearch-chat.php:183 includes/jobsearch-chat-hooks.php:811
+#: includes/backend/jobsearch-chat-backend-view.php:171
+#, fuzzy
+msgid "Offline"
+msgstr "Desconectado"
+
+#: addon-jobsearch-chat.php:182
+#, fuzzy
+msgid "Online"
+msgstr "En línea"
+
+#: includes/jobsearch-chat-hooks.php:583
+#: includes/backend/jobsearch-chat-backend-view.php:48
+#, fuzzy
+msgid ""
+"Please add API credentials in Jobsearch options, API settings in order to "
+"use chat."
+msgstr ""
+"Por favor, agregue credenciales de API en las opciones de búsqueda de "
+"trabajo, configuración de API para utilizar el chat."
+
+#: includes/jobsearch-chat-hooks.php:418
+#, fuzzy
+msgid "Please enter the app cluster of your chat Pusher app."
+msgstr "Por favor, introduzca el grupo de aplicaciones de su chat Pusher App."
+
+#: includes/jobsearch-chat-hooks.php:390
+#, fuzzy
+msgid "Please enter the app id of your chat Pusher app."
+msgstr "Por favor, introduzca la App Id de su chat Pusher App."
+
+#: includes/jobsearch-chat-hooks.php:400
+#, fuzzy
+msgid "Please enter the auth key of your chat Pusher app."
+msgstr "Por favor, introduzca la tecla Auth de su chat Pusher App."
+
+#: includes/jobsearch-chat-hooks.php:409
+#, fuzzy
+msgid "Please enter the auth secret of your chat Pusher app."
+msgstr "Por favor, introduzca el secreto Auth de su chat Pusher App."
+
+#: includes/backend/jobsearch-chat-backend-settings.php:72
+#: includes/backend/jobsearch-chat-backend-settings.php:78
+#, fuzzy
+msgid "Save Settings"
+msgstr "Guardar configuración"
+
+#: includes/jobsearch-chat-hooks.php:619
+#, fuzzy
+msgid "Search"
+msgstr "Buscar"
+
+#: addon-jobsearch-chat.php:188 includes/jobsearch-chat-ajax.php:386
+#, fuzzy
+msgid "Seen"
+msgstr "Visto"
+
+#: includes/jobsearch-chat-hooks.php:857
+#: includes/backend/jobsearch-chat-backend-view.php:218
+#, fuzzy
+msgid "Send"
+msgstr "Enviar"
+
+#: includes/jobsearch-chat-hooks.php:320 includes/jobsearch-chat-hooks.php:347
+#, fuzzy
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: includes/front/jobsearch-chat-toggle-view.php:67
+#: includes/front/jobsearch-chat-toggle-view.php:152
+#: includes/front/jobsearch-chat-toggle-view.php:258
+#, fuzzy
+msgid "Settings"
+msgstr "Configuración"
+
+#: includes/jobsearch-chat-hooks.php:607
+#, fuzzy
+msgid "Sort by recent"
+msgstr "Ordenar por reciente"
+
+#: includes/jobsearch-chat-hooks.php:608
+#, fuzzy
+msgid "Sort by unread"
+msgstr "Ordenar por no leído"
+
+#: includes/jobsearch-chat-hooks.php:606
+#, fuzzy
+msgid "Sort Contacts"
+msgstr "Ordenar los contactos"
+
+#: includes/front/jobsearch-chat-toggle-view.php:346
+#, fuzzy
+msgid "Sound Notifications"
+msgstr "Notificaciones sonoras"
+
+#: includes/common-functions.php:19
+#, fuzzy
+msgid "Start Chat"
+msgstr "Iniciar el chat"
+
+#: includes/jobsearch-chat-ajax.php:406 includes/jobsearch-chat-ajax.php:540
+#, fuzzy
+msgid "Started from "
+msgstr "Iniciada desde"
+
+#: includes/jobsearch-chat-hooks.php:646
+#: includes/front/jobsearch-chat-toggle-view.php:391
+#, fuzzy
+msgid "Support"
+msgstr "Apoyo"
+
+#: addon-jobsearch-chat.php:190
+#, fuzzy
+msgid "The message has been deleted."
+msgstr "El mensaje ha sido eliminado."
+
+#: addon-jobsearch-chat.php:181
+#, fuzzy
+msgid "There are no messages in this chat yet"
+msgstr "Todavía no hay mensajes en este chat."
+
+#: addon-jobsearch-chat.php:180
+#, fuzzy
+msgid "There is some problem."
+msgstr "Hay algún problema."
+
+#. Description of the plugin
+#, fuzzy
+msgid "This addon is useful for Employer to Candidate chat."
+msgstr "Este Addon es útil para el empleador para chatear con candidatos."
+
+#: addon-jobsearch-chat.php:189
+#, fuzzy
+msgid "Today at"
+msgstr "Hoy en"
+
+#: includes/front/jobsearch-chat-toggle-view.php:335
+#, fuzzy
+msgid "Toggle"
+msgstr "Conmutar"
+
+#: includes/front/jobsearch-chat-toggle-view.php:87
+#: includes/front/jobsearch-chat-toggle-view.php:172
+#: includes/front/jobsearch-chat-toggle-view.php:278
+#, fuzzy
+msgid "Type a Message"
+msgstr "Escriba un mensaje"
+
+#: includes/jobsearch-chat-hooks.php:846
+#: includes/backend/jobsearch-chat-backend-view.php:206
+#, fuzzy
+msgid "Upload File"
+msgstr "Cargar archivo"
+
+#: includes/backend/jobsearch-chat-backend-settings.php:51
+#, fuzzy
+msgid "With Package"
+msgstr "Con paquete"

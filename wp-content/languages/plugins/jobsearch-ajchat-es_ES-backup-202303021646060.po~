@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Addon Jobsearch Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-23 13:17+0000\n"
+"PO-Revision-Date: 2023-03-02 16:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: addon-jobsearch-chat.php:230
+msgid ""
+"<em><b>Addon Jobsearch Chat</b></em> needs the <b>WP Jobsearch</b> plugin. "
+"Please install and activate it."
+msgstr ""
+
+#. Name of the plugin
+msgid "Addon Jobsearch Chat"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:592
+msgid "All"
+msgstr ""
+
+#: includes/backend/jobsearch-chat-backend-view.php:61
+msgid "Candidate"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:167
+#: includes/front/jobsearch-chat-toggle-view.php:333
+msgid "Chat"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:133
+msgid "Chat Box"
+msgstr ""
+
+#. page title
+#: includes/jobsearch-chat-hooks.php:140 includes/jobsearch-chat-hooks.php:141
+msgid "Chat Box Settings"
+msgstr ""
+
+#: addon-jobsearch-chat.php:193
+msgid "Chat is disabled now"
+msgstr ""
+
+#: addon-jobsearch-chat.php:192
+msgid "Chat is enabled now"
+msgstr ""
+
+#: includes/backend/jobsearch-chat-backend-settings.php:45
+msgid "Chat Package Type"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:381
+msgid "Chat Pusher API settings section."
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:343
+msgid "Click on settings"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:62
+#: includes/front/jobsearch-chat-toggle-view.php:147
+#: includes/front/jobsearch-chat-toggle-view.php:254
+msgid "Close"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:375
+msgid "Contacts"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:797
+#: includes/backend/jobsearch-chat-backend-view.php:157
+#: includes/front/jobsearch-chat-toggle-view.php:468
+msgid "Create New Group"
+msgstr ""
+
+#: addon-jobsearch-chat.php:187
+msgid "Delete"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:358
+msgid "Disable Chat"
+msgstr ""
+
+#: includes/backend/jobsearch-chat-backend-settings.php:27
+msgid "Disable for Candidate"
+msgstr ""
+
+#: includes/backend/jobsearch-chat-backend-settings.php:10
+msgid "Disable for Employer"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:596
+#: includes/backend/jobsearch-chat-backend-view.php:57
+msgid "Employer"
+msgstr ""
+
+#. Author of the plugin
+msgid "Eyecix"
+msgstr ""
+
+#: includes/backend/jobsearch-chat-backend-settings.php:50
+msgid "Free"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:339
+msgid "Full View"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:794
+#: includes/backend/jobsearch-chat-backend-view.php:154
+#: includes/front/jobsearch-chat-toggle-view.php:465
+msgid "Group Conversation"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:600
+#: includes/backend/jobsearch-chat-backend-view.php:65
+msgid "Groups"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/eyecix/"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:49
+msgid "Live Chat"
+msgstr ""
+
+#: addon-jobsearch-chat.php:191
+msgid "Loading"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:199 includes/jobsearch-chat-hooks.php:242
+msgid "Message / Chat"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:586
+#: includes/backend/jobsearch-chat-backend-view.php:51
+msgid "Messages"
+msgstr ""
+
+#: addon-jobsearch-chat.php:183 includes/jobsearch-chat-hooks.php:811
+#: includes/backend/jobsearch-chat-backend-view.php:171
+msgid "Offline"
+msgstr ""
+
+#: addon-jobsearch-chat.php:182
+msgid "Online"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:583
+#: includes/backend/jobsearch-chat-backend-view.php:48
+msgid ""
+"Please add API credentials in Jobsearch options, API settings in order to "
+"use chat."
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:418
+msgid "Please enter the app cluster of your chat Pusher app."
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:390
+msgid "Please enter the app id of your chat Pusher app."
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:400
+msgid "Please enter the auth key of your chat Pusher app."
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:409
+msgid "Please enter the auth secret of your chat Pusher app."
+msgstr ""
+
+#: includes/backend/jobsearch-chat-backend-settings.php:72
+#: includes/backend/jobsearch-chat-backend-settings.php:78
+msgid "Save Settings"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:619
+msgid "Search"
+msgstr ""
+
+#: addon-jobsearch-chat.php:188 includes/jobsearch-chat-ajax.php:386
+msgid "Seen"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:857
+#: includes/backend/jobsearch-chat-backend-view.php:218
+msgid "Send"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:320 includes/jobsearch-chat-hooks.php:347
+msgid "Send Message"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:67
+#: includes/front/jobsearch-chat-toggle-view.php:152
+#: includes/front/jobsearch-chat-toggle-view.php:258
+msgid "Settings"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:607
+msgid "Sort by recent"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:608
+msgid "Sort by unread"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:606
+msgid "Sort Contacts"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:346
+msgid "Sound Notifications"
+msgstr ""
+
+#: includes/common-functions.php:19
+msgid "Start Chat"
+msgstr ""
+
+#: includes/jobsearch-chat-ajax.php:406 includes/jobsearch-chat-ajax.php:540
+msgid "Started from "
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:646
+#: includes/front/jobsearch-chat-toggle-view.php:391
+msgid "Support"
+msgstr ""
+
+#: addon-jobsearch-chat.php:190
+msgid "The message has been deleted."
+msgstr ""
+
+#: addon-jobsearch-chat.php:181
+msgid "There are no messages in this chat yet"
+msgstr ""
+
+#: addon-jobsearch-chat.php:180
+msgid "There is some problem."
+msgstr ""
+
+#. Description of the plugin
+msgid "This addon is useful for Employer to Candidate chat."
+msgstr ""
+
+#: addon-jobsearch-chat.php:189
+msgid "Today at"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:335
+msgid "Toggle"
+msgstr ""
+
+#: includes/front/jobsearch-chat-toggle-view.php:87
+#: includes/front/jobsearch-chat-toggle-view.php:172
+#: includes/front/jobsearch-chat-toggle-view.php:278
+msgid "Type a Message"
+msgstr ""
+
+#: includes/jobsearch-chat-hooks.php:846
+#: includes/backend/jobsearch-chat-backend-view.php:206
+msgid "Upload File"
+msgstr ""
+
+#: includes/backend/jobsearch-chat-backend-settings.php:51
+msgid "With Package"
+msgstr ""

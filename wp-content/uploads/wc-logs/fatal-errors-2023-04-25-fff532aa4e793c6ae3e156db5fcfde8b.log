@@ -1,0 +1,64 @@
+2023-04-25T15:53:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T15:58:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:00:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:05:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:10:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:15:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:20:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:26:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:34:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:36:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:40:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:50:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T16:56:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\class-wpdb.php en la línea 2431
+
+2023-04-25T16:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T17:00:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T17:06:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T17:11:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T17:15:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T17:20:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T17:32:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T17:35:06+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php:64
+Stack trace:
+#0 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#1 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#2 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#3 C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php(528): JobSearch_Indeed_Jobs_Scraping_Schedulr->import_jobs(Array)
+#4 C:\xam en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\modules\indeed-jobs-import\include\indeed-scraping-schedule.php en la línea 64
+
+2023-04-25T18:51:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T18:56:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T19:01:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T19:06:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\wp-jobsearch\includes\common-functions\employer-functions.php en la línea 5
+
+2023-04-25T19:07:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-content\plugins\woocommerce-avatax\vendor\skyverge\wc-plugin-framework\woocommerce\admin\abstract-sv-wc-plugin-admin-setup-wizard.php en la línea 26
+
+2023-04-25T19:14:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T19:17:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-25T19:21:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+

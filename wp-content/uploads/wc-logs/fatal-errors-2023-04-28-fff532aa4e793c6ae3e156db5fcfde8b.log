@@ -1,0 +1,14 @@
+2023-04-28T21:43:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-28T21:46:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-28T21:50:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-28T21:55:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 205
+
+2023-04-28T22:00:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-28T22:06:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-04-28T22:10:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\trabajosjovenes_new\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
